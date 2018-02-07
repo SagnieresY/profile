@@ -1,0 +1,82 @@
+body {
+  background: #7FB685;
+  font-family: 'Comfortaa', sans-serif;
+  font-size: 14px;
+  color: #475B63;
+}
+
+h1, h2 {
+  font-size: "Berkshire Swash";
+  font-size: 35px;
+  color: #2E2C2F;
+}
+
+h3 {
+  font-family: 'Indie Flower';
+  color: #2E2C2F;
+}
+
+h2, h3 {
+  font-size: 25px;
+}
+
+a {
+  text-decoration: underline;
+  color: inherit
+}
+
+a:hover {
+ color: #7FB685;
+}
+
+p {
+  text-align: justify;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#img-favorite-middle {
+  border: 1px solid #475B63;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+
+.card {
+  background: #BACDB0;
+  border-radius: 4px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.img-soft-corner {
+  border-radius: 2px
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline li i{
+  font-size: 25px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+
